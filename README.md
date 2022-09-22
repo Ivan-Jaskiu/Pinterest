@@ -4,11 +4,11 @@
 
 Projeto construido do evento Next Level da Rocketseat.
 
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https:///Ivan-Jaskiu.github.io/pinterest/index.html)
 
 # Tecnologia
 - HTML
-- CCSS
+- SCSS
 - JS
 
 # Contato
