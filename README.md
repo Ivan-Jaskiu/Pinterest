@@ -1,6 +1,6 @@
 # Clone Pinterest
 
-![preview](./github/pin.png)
+![preview](./.github/pin.png)
 
 Projeto construido do evento Next Level da Rocketseat.
 
