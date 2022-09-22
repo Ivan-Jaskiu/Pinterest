@@ -4,7 +4,7 @@
 
 Projeto construido do evento Next Level da Rocketseat.
 
-[Clique aqui para acessar](https:///Ivan-Jaskiu.github.io/pinterest/index.html)
+[Clique aqui para acessar](https:///Ivan-Jaskiu.github.io/Pinterest/index.html)
 
 # Tecnologia
 - HTML
