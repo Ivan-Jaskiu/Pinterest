@@ -2,7 +2,7 @@
 
 ![preview](./.github/pin.png)
 
-Projeto construido do evento Next Level da Rocketseat.
+Projeto construido com a ajuda da(@Rocketseat)
 
 [Clique aqui para acessar](https:///Ivan-Jaskiu.github.io/Pinterest/index.html)
 
